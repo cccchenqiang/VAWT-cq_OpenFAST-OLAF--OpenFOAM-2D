@@ -1,4 +1,4 @@
-# pytoolbox — VAWT + OLAF (AeroDyn Driver) 仿真工具箱（GUI）
+# VAWT仿真工具箱OLAF (AeroDyn Driver) OpenFOAM 2D（GUI）
 
 本目录是 OpenFAST 工具与 OpenFOAM VAWT 案例生成器的隔离整合项目。它在原有
 OpenFAST 四个页面之外增加“⑤ OpenFOAM 案例”页面；原始
